@@ -1,7 +1,7 @@
 
 # Vodify
 
-Scripts for download Twitch VODs in their entirety.
+Scripts for downloading Twitch VODs in their entirety.
 
 
 ## Installation for Windows
