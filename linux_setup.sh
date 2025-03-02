@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# setup_and_run.sh
-
 # Check if Python 3 is installed
 if ! command -v python3 &> /dev/null; then
     echo "Error: Python 3 is not installed."
