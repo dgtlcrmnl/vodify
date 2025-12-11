@@ -2,6 +2,9 @@
 
 Script for downloading Twitch clips/VODs in their entirety.
 
+## Requirements
+pip install -r requirements.txt
+
 ## Usage
 - Run vodify.py via the terminal/command prompt
 - Enter the VOD url
